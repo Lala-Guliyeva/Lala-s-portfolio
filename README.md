@@ -4,7 +4,7 @@
 * Performed data cleansing 
 
 
-# [Project 2. Visualization](https://github.com/Lala-Guliyeva/Lala-s-portfolio/blob/master/Full%20Data%20regression%20example%20.py)
+# [Project 2. Visualization](https://github.com/Lala-Guliyeva/Lala-s-portfolio/blob/master/Data%20Visualization%20example.py)
 Applied visualization types, such as bar, line, scatter plot, bar chart
 
 
